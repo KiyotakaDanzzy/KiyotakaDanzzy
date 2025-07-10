@@ -55,4 +55,4 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiyotakadanzzy&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="kiyotakadanzzy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiyotakadanzzy&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="kiyotakadanzzy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiyotakadanzzy&bg_color=000000&text_color=ffffff&title_color=ffffff&ring_color=ff9900&fire_color=ff9900" alt="kiyotakadanzzy" /></p>
