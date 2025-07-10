@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiyotakadanzzy&label=Profile%20views&color=0e75b6&style=flat" alt="kiyotakadanzzy" style="filter: brightness(1.2);" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiyotakadanzzy" alt="kiyotakadanzzy" style="filter: brightness(1.2);" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiyotakadanzzy&theme=dracula" alt="kiyotakadanzzy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/draz3e" target="blank"><img src="https://img.shields.io/twitter/follow/draz3e?logo=twitter&style=for-the-badge" alt="draz3e" style="filter: brightness(1.2); background-color: #1da1f2;" /></a> </p>
 
@@ -51,8 +51,8 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="filter: invert(1);" /> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiyotakadanzzy&show_icons=true&locale=en&layout=compact&bg_color=1e1e1e&text_color=ffffff&title_color=ffffff" alt="kiyotakadanzzy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiyotakadanzzy&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="kiyotakadanzzy" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiyotakadanzzy&show_icons=true&locale=en&bg_color=1e1e1e&text_color=ffffff&title_color=ffffff" alt="kiyotakadanzzy" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiyotakadanzzy&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="kiyotakadanzzy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiyotakadanzzy&bg_color=1e1e1e&text_color=ffffff&title_color=ffffff" alt="kiyotakadanzzy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiyotakadanzzy&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="kiyotakadanzzy" /></p>
