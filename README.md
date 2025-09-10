@@ -103,17 +103,14 @@ Berikut adalah beberapa teknologi dan alat yang saya kuasai dan gunakan:
 <br>
 <br>
 
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiyotakadanzzy&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=kiyotakadanzzy&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
-      <br>
-      <img src="https://streak-stats.demolab.com/?user=kiyotakadanzzy&theme=dracula" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiyotakadanzzy&show_icons=true&locale=en&layout=compact&theme=dark" alt="kiyotakadanzzy" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiyotakadanzzy&show_icons=true&locale=en&theme=dark" alt="kiyotakadanzzy" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kiyotakadanzzy&theme=dark" alt="kiyotakadanzzy" />
+</p>
 
 </div>
