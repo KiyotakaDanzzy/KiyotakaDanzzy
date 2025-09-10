@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjVtcHVzbzY0MTVod3MyMHlqOHd2N2o3emY3aHgwd2Zyb2ppaG5pYSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/wine37gPflS2irU8Ad/giphy.gif" width="400" />
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXJrY2J3YTlobHpjdGlybTZyN3Y1dWsyejRzYXd6a3BydGcwdG14ZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/rVNv010KSUQQwwQzDU/giphy.gif" />
 
 # **Hi, I'm valdan 👋**
 
