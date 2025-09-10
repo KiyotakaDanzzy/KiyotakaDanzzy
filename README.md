@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNkcXF4NDVpbnJ0azU4OXp1eGkzbzE3NGI5Z2ZmM3I4c2d2cWk5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjoMAgT37/giphy.gif" width="400" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhlZngyMnM4cjJyc21yd3V4ZnZ0c3Y2Z2xrdGM3anNiMDhnZmdiciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qyUJmARdRq7HlQgT5Z/giphy.gif" width="400" />
 
-# **Hi, I'm Idan 👋**
+# **Hi, I'm valdan 👋**
 
 <a href="https://github.com/Kiyotakadanzzy">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&color=00FFFF&center=true&vCenter=true&width=450&lines=Student+at+SMKN+1+Lumajang;Software+Engineering+Major;Always+Learning+New+Things" alt="Typing SVG" />
