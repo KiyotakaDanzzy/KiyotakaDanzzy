@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiyotakadanzzy&label=Profile%20views&color=0e75b6&style=flat" alt="kiyotakadanzzy" style="filter: brightness(1.2);" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiyotakadanzzy&theme=dracula" alt="kiyotakadanzzy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiyotakadanzzy&theme=dark" alt="kiyotakadanzzy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/draz3e" target="blank"><img src="https://img.shields.io/twitter/follow/draz3e?logo=twitter&style=for-the-badge" alt="draz3e" style="filter: brightness(1.2); background-color: #1da1f2;" /></a> </p>
 
