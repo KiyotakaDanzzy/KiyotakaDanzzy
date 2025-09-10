@@ -51,17 +51,12 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="filter: invert(1);" /> </a> 
 </p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiyotakadanzzy&show_icons=true&locale=en&layout=compact&theme=dark" alt="kiyotakadanzzy" />
-      </td>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=kiyotakadanzzy&show_icons=true&locale=en&theme=dark" alt="kiyotakadanzzy" />
-        <br>
-        <img src="https://streak-stats.demolab.com/?user=kiyotakadanzzy&theme=dark" alt="kiyotakadanzzy" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiyotakadanzzy&show_icons=true&locale=en&layout=compact&theme=dark" alt="kiyotakadanzzy" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiyotakadanzzy&show_icons=true&locale=en&theme=dark" alt="kiyotakadanzzy" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kiyotakadanzzy&theme=dark" alt="kiyotakadanzzy" />
+</p>
