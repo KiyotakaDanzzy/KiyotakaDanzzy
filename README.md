@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXJrY2J3YTlobHpjdGlybTZyN3Y1dWsyejRzYXd6a3BydGcwdG14ZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/rVNv010KSUQQwwQzDU/giphy.gif" />
+<img src="https://www.shutterstock.com/shutterstock/videos/3568949587/preview/stock-footage-eyes-blink-anime-girl-with-the-red-eyes.webm" />
 
 # **Hi, I'm valdan 👋**
 
