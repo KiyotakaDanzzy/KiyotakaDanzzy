@@ -91,7 +91,7 @@ Berikut adalah beberapa teknologi dan alat yang saya kuasai dan gunakan:
 
 ---
 
-### 📊 Statistik & Pencapaian Saya
+### 📊 Statistik Saya
 
 <div align="center">
 
