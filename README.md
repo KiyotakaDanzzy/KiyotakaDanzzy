@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/oUYKTzP.mp4" />
+<img src="https://media0.giphy.com/media/ZA2b6YRegCRN2apsGP/200.gif" />
 
 
 # **Hi, I'm valdan 👋**
