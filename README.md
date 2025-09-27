@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdyYWo0Mnk0ZWI5ODRzam16aTYxbHplOWFxN2psNWFrZ2lmYm5jZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sNUWF7fAUP2q4/giphy.gif" />
+<img src="https://i.imgur.com/oUYKTzP.mp4" />
+
 
 # **Hi, I'm valdan 👋**
 
