@@ -28,7 +28,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - 🌱 Saat ini sedang mendalami **Flutter, Laravel, CodeIgniter 4, React, & Python**.
 - 👨‍💻 Semua proyek saya tersedia di [repositori GitHub saya](https://github.com/Kiyotakadanzzy).
@@ -37,9 +37,9 @@
 
 ---
 
-### 💻 Tech Stack & Tools
+### Tech Stack & Tools
 
-Berikut adalah beberapa teknologi dan alat yang saya kuasai dan gunakan:
+Berikut adalah beberapa teknologi dan alat yang saya gunakan:
 
 <table>
   <tr>
@@ -92,7 +92,7 @@ Berikut adalah beberapa teknologi dan alat yang saya kuasai dan gunakan:
 
 ---
 
-### 📊 Statistik Saya
+### Statistik Saya
 
 <div align="center">
 
