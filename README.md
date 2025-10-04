@@ -6,7 +6,7 @@
 # **Hi, I'm valdan 👋**
 
 <a href="https://github.com/Kiyotakadanzzy">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&color=00FFFF&center=true&vCenter=true&width=450&lines=Student+at+SMKN+1+Lumajang;Software+Engineering+Major;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&color=00FFFF&center=true&vCenter=true&width=450&lines=sybau🥀;nice+try+diddy😭🙏;kidding+kids" alt="Typing SVG" />
 </a>
 
 </div>
